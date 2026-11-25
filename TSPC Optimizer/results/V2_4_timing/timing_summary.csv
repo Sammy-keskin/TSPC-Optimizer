@@ -1,0 +1,10 @@
+Frequency_MHz,Delay_cycles,Sample_pass,Hold_pass,Glitch_pass,Passed_cycles,PASS
+100,1.0,10,10,10,10,True
+100,1.1,10,10,10,10,True
+100,1.25,10,10,10,10,True
+200,1.0,8,8,6,6,False
+200,1.1,10,10,10,10,True
+200,1.25,10,10,10,10,True
+990,1.0,5,4,5,3,False
+990,1.1,5,3,7,2,False
+990,1.25,5,4,7,3,False
