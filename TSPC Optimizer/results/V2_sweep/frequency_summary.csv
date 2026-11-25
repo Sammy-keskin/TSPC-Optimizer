@@ -1,0 +1,8 @@
+Frequency_MHz,PASS,Passed_cycles,Total_cycles,Q_min_V,Q_max_V,Simulation_time_s,Error
+100,True,10.0,10.0,-0.18178730984907332,3.193520765300894,7.418122200004291,
+200,,,,,,,Integration failed: Required step size is less than spacing between numbers.
+300,,,,,,,Integration failed: Required step size is less than spacing between numbers.
+400,,,,,,,Integration failed: Required step size is less than spacing between numbers.
+500,False,3.0,10.0,-0.1652917567548525,3.2014863113072507,6.9759568000008585,
+600,False,3.0,10.0,-0.1508744043764466,3.198409682930447,6.629266199990525,
+700,False,3.0,10.0,-0.15112173893636688,3.1946031527629777,6.206364600002416,
